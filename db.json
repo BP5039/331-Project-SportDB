@@ -665,6 +665,231 @@
         "silver": 1,
         "bronze": 1
       }
+    },
+    {
+      "countryId": "SWE",
+      "sportName": "Wrestling",
+      "medals": {
+        "gold": 3,
+        "silver": 1,
+        "bronze": 2
+      }
+    },
+    {
+      "countryId": "SWE",
+      "sportName": "Athletics",
+      "medals": {
+        "gold": 2,
+        "silver": 2,
+        "bronze": 1
+      }
+    },
+    {
+      "countryId": "SWE",
+      "sportName": "Shooting",
+      "medals": {
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      }
+    },
+    {
+      "countryId": "SWE",
+      "sportName": "Equestrian",
+      "medals": {
+        "gold": 1,
+        "silver": 1,
+        "bronze": 2
+      }
+    },
+    {
+      "countryId": "SWE",
+      "sportName": "Sailing",
+      "medals": {
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1
+      }
+    },
+    {
+      "countryId": "KEN",
+      "sportName": "Athletics",
+      "medals": {
+        "gold": 8,
+        "silver": 6,
+        "bronze": 2
+      }
+    },
+    {
+      "countryId": "KEN",
+      "sportName": "Boxing",
+      "medals": {
+        "gold": 1,
+        "silver": 0,
+        "bronze": 2
+      }
+    },
+    {
+      "countryId": "KEN",
+      "sportName": "Weightlifting",
+      "medals": {
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1
+      }
+    },
+    {
+      "countryId": "KEN",
+      "sportName": "Swimming",
+      "medals": {
+        "gold": 0,
+        "silver": 2,
+        "bronze": 0
+      }
+    },
+    {
+      "countryId": "KEN",
+      "sportName": "Rugby",
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      }
+    },
+    {
+      "countryId": "NOR",
+      "sportName": "Sailing",
+      "medals": {
+        "gold": 3,
+        "silver": 1,
+        "bronze": 1
+      }
+    },
+    {
+      "countryId": "NOR",
+      "sportName": "Athletics",
+      "medals": {
+        "gold": 2,
+        "silver": 3,
+        "bronze": 2
+      }
+    },
+    {
+      "countryId": "NOR",
+      "sportName": "Cycling",
+      "medals": {
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      }
+    },
+    {
+      "countryId": "NOR",
+      "sportName": "Rowing",
+      "medals": {
+        "gold": 1,
+        "silver": 2,
+        "bronze": 1
+      }
+    },
+    {
+      "countryId": "NOR",
+      "sportName": "Wrestling",
+      "medals": {
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1
+      }
+    },
+    {
+      "countryId": "IRL",
+      "sportName": "Boxing",
+      "medals": {
+        "gold": 2,
+        "silver": 3,
+        "bronze": 2
+      }
+    },
+    {
+      "countryId": "IRL",
+      "sportName": "Rowing",
+      "medals": {
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      }
+    },
+    {
+      "countryId": "IRL",
+      "sportName": "Athletics",
+      "medals": {
+        "gold": 2,
+        "silver": 0,
+        "bronze": 2
+      }
+    },
+    {
+      "countryId": "IRL",
+      "sportName": "Equestrian",
+      "medals": {
+        "gold": 1,
+        "silver": 2,
+        "bronze": 1
+      }
+    },
+    {
+      "countryId": "IRL",
+      "sportName": "Cycling",
+      "medals": {
+        "gold": 0,
+        "silver": 2,
+        "bronze": 1
+      }
+    },
+    {
+      "countryId": "BRA",
+      "sportName": "Volleyball",
+      "medals": {
+        "gold": 3,
+        "silver": 2,
+        "bronze": 1
+      }
+    },
+    {
+      "countryId": "BRA",
+      "sportName": "Judo",
+      "medals": {
+        "gold": 3,
+        "silver": 0,
+        "bronze": 3
+      }
+    },
+    {
+      "countryId": "BRA",
+      "sportName": "Athletics",
+      "medals": {
+        "gold": 2,
+        "silver": 2,
+        "bronze": 3
+      }
+    },
+    {
+      "countryId": "BRA",
+      "sportName": "Football",
+      "medals": {
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      }
+    },
+    {
+      "countryId": "BRA",
+      "sportName": "Sailing",
+      "medals": {
+        "gold": 1,
+        "silver": 0,
+        "bronze": 2
+      }
     }
   ]
 }
