@@ -1,0 +1,167 @@
+{
+    "sports": [
+      {
+        "countryId": "USA",
+        "sportName": "Swimming",
+        "medals": {
+          "gold": 15,
+          "silver": 10,
+          "bronze": 5
+        }
+      },
+      {
+        "countryId": "USA",
+        "sportName": "Athletics",
+        "medals": {
+          "gold": 8,
+          "silver": 12,
+          "bronze": 10
+        }
+      },
+      {
+        "countryId": "USA",
+        "sportName": "Wrestling",
+        "medals": {
+          "gold": 6,
+          "silver": 4,
+          "bronze": 3
+        }
+      },
+      {
+        "countryId": "USA",
+        "sportName": "Basketball",
+        "medals": {
+          "gold": 4,
+          "silver": 0,
+          "bronze": 2
+        }
+      },
+      {
+        "countryId": "USA",
+        "sportName": "Boxing",
+        "medals": {
+          "gold": 6,
+          "silver": 5,
+          "bronze": 4
+        }
+      },
+      {
+        "countryId": "CHN",
+        "sportName": "Weightlifting",
+        "medals": {
+          "gold": 10,
+          "silver": 3,
+          "bronze": 1
+        }
+      },
+      {
+        "countryId": "CHN",
+        "sportName": "Diving",
+        "medals": {
+          "gold": 12,
+          "silver": 5,
+          "bronze": 0
+        }
+      },
+      {
+        "countryId": "CHN",
+        "sportName": "Table Tennis",
+        "medals": {
+          "gold": 8,
+          "silver": 4,
+          "bronze": 2
+        }
+      },
+      {
+        "countryId": "CHN",
+        "sportName": "Gymnastics",
+        "medals": {
+          "gold": 6,
+          "silver": 5,
+          "bronze": 3
+        }
+      },
+      {
+        "countryId": "JPN",
+        "sportName": "Judo",
+        "medals": {
+          "gold": 13,
+          "silver": 3,
+          "bronze": 2
+        }
+      },
+      {
+        "countryId": "JPN",
+        "sportName": "Swimming",
+        "medals": {
+          "gold": 5,
+          "silver": 3,
+          "bronze": 4
+        }
+      },
+      {
+        "countryId": "JPN",
+        "sportName": "Athletics",
+        "medals": {
+          "gold": 6,
+          "silver": 5,
+          "bronze": 6
+        }
+      },
+      {
+        "countryId": "GBR",
+        "sportName": "Cycling",
+        "medals": {
+          "gold": 12,
+          "silver": 5,
+          "bronze": 6
+        }
+      },
+      {
+        "countryId": "GBR",
+        "sportName": "Athletics",
+        "medals": {
+          "gold": 5,
+          "silver": 10,
+          "bronze": 4
+        }
+      },
+      {
+        "countryId": "GBR",
+        "sportName": "Swimming",
+        "medals": {
+          "gold": 3,
+          "silver": 3,
+          "bronze": 4
+        }
+      },
+      {
+        "countryId": "ROC",
+        "sportName": "Wrestling",
+        "medals": {
+          "gold": 9,
+          "silver": 6,
+          "bronze": 5
+        }
+      },
+      {
+        "countryId": "ROC",
+        "sportName": "Gymnastics",
+        "medals": {
+          "gold": 6,
+          "silver": 10,
+          "bronze": 6
+        }
+      },
+      {
+        "countryId": "ROC",
+        "sportName": "Boxing",
+        "medals": {
+          "gold": 5,
+          "silver": 4,
+          "bronze": 5
+        }
+      }
+    ]
+  }
+  
