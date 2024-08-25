@@ -5,7 +5,7 @@
       "sportName": "Swimming",
       "medals": {
         "gold": 15,
-        "silver": 15,
+        "silver": 25,
         "bronze": 20
       }
     },
@@ -13,27 +13,18 @@
       "countryId": "USA",
       "sportName": "Basketball",
       "medals": {
-        "gold": 15,
-        "silver": 15,
-        "bronze": 15
-      }
-    },
-    {
-      "countryId": "USA",
-      "sportName": "Athletics",
-      "medals": {
-        "gold": 10,
-        "silver": 15,
-        "bronze": 5
+        "gold": 25,
+        "silver": 20,
+        "bronze": 20
       }
     },
     {
       "countryId": "CHN",
       "sportName": "Table Tennis",
       "medals": {
-        "gold": 15,
-        "silver": 10,
-        "bronze": 15
+        "gold": 20,
+        "silver": 15,
+        "bronze": 5
       }
     },
     {
@@ -41,26 +32,17 @@
       "sportName": "Weightlifting",
       "medals": {
         "gold": 10,
-        "silver": 15,
-        "bronze": 10
-      }
-    },
-    {
-      "countryId": "CHN",
-      "sportName": "Badminton",
-      "medals": {
-        "gold": 10,
-        "silver": 15,
-        "bronze": 15
+        "silver": 25,
+        "bronze": 35
       }
     },
     {
       "countryId": "JPN",
       "sportName": "Judo",
       "medals": {
-        "gold": 15,
-        "silver": 10,
-        "bronze": 5
+        "gold": 25,
+        "silver": 15,
+        "bronze": 20
       }
     },
     {
@@ -69,15 +51,6 @@
       "medals": {
         "gold": 10,
         "silver": 15,
-        "bronze": 15
-      }
-    },
-    {
-      "countryId": "JPN",
-      "sportName": "Skateboarding",
-      "medals": {
-        "gold": 10,
-        "silver": 5,
         "bronze": 20
       }
     },
@@ -85,8 +58,8 @@
       "countryId": "AUS",
       "sportName": "Swimming",
       "medals": {
-        "gold": 10,
-        "silver": 15,
+        "gold": 20,
+        "silver": 5,
         "bronze": 15
       }
     },
@@ -95,33 +68,15 @@
       "sportName": "Cycling",
       "medals": {
         "gold": 10,
-        "silver": 5,
-        "bronze": 10
-      }
-    },
-    {
-      "countryId": "AUS",
-      "sportName": "Rowing",
-      "medals": {
-        "gold": 10,
-        "silver": 5,
-        "bronze": 5
-      }
-    },
-    {
-      "countryId": "FRA",
-      "sportName": "Judo",
-      "medals": {
-        "gold": 5,
-        "silver": 5,
-        "bronze": 10
+        "silver": 30,
+        "bronze": 15
       }
     },
     {
       "countryId": "FRA",
       "sportName": "Cycling",
       "medals": {
-        "gold": 15,
+        "gold": 10,
         "silver": 10,
         "bronze": 5
       }
@@ -130,25 +85,16 @@
       "countryId": "FRA",
       "sportName": "Fencing",
       "medals": {
-        "gold": 10,
-        "silver": 5,
-        "bronze": 10
-      }
-    },
-    {
-      "countryId": "NED",
-      "sportName": "Cycling",
-      "medals": {
-        "gold": 10,
+        "gold": 20,
         "silver": 10,
-        "bronze": 5
+        "bronze": 20
       }
     },
     {
       "countryId": "NED",
       "sportName": "Rowing",
       "medals": {
-        "gold": 5,
+        "gold": 20,
         "silver": 15,
         "bronze": 5
       }
@@ -157,18 +103,9 @@
       "countryId": "NED",
       "sportName": "Sailing",
       "medals": {
-        "gold": 10,
-        "silver": 5,
-        "bronze": 10
-      }
-    },
-    {
-      "countryId": "GBR",
-      "sportName": "Cycling",
-      "medals": {
-        "gold": 10,
-        "silver": 10,
-        "bronze": 5
+        "gold": 15,
+        "silver": 15,
+        "bronze": 15
       }
     },
     {
@@ -176,25 +113,16 @@
       "sportName": "Rowing",
       "medals": {
         "gold": 5,
-        "silver": 5,
-        "bronze": 5
+        "silver": 10,
+        "bronze": 10
       }
     },
     {
       "countryId": "GBR",
       "sportName": "Athletics",
       "medals": {
-        "gold": 5,
-        "silver": 5,
-        "bronze": 5
-      }
-    },
-    {
-      "countryId": "KOR",
-      "sportName": "Archery",
-      "medals": {
-        "gold": 5,
-        "silver": 5,
+        "gold": 15,
+        "silver": 10,
         "bronze": 5
       }
     },
@@ -202,9 +130,9 @@
       "countryId": "KOR",
       "sportName": "Taekwondo",
       "medals": {
-        "gold": 10,
+        "gold": 15,
         "silver": 5,
-        "bronze": 5
+        "bronze": 10
       }
     },
     {
@@ -212,25 +140,16 @@
       "sportName": "Judo",
       "medals": {
         "gold": 5,
-        "silver": 5,
-        "bronze": 10
-      }
-    },
-    {
-      "countryId": "ITA",
-      "sportName": "Fencing",
-      "medals": {
-        "gold": 5,
         "silver": 10,
-        "bronze": 5
+        "bronze": 10
       }
     },
     {
       "countryId": "ITA",
       "sportName": "Cycling",
       "medals": {
-        "gold": 5,
-        "silver": 5,
+        "gold": 10,
+        "silver": 10,
         "bronze": 5
       }
     },
@@ -239,17 +158,17 @@
       "sportName": "Swimming",
       "medals": {
         "gold": 5,
-        "silver": 5,
-        "bronze": 5
+        "silver": 10,
+        "bronze": 10
       }
     },
     {
       "countryId": "GER",
       "sportName": "Cycling",
       "medals": {
-        "gold": 5,
+        "gold": 10,
         "silver": 5,
-        "bronze": 2
+        "bronze": 5
       }
     },
     {
@@ -257,16 +176,7 @@
       "sportName": "Equestrian",
       "medals": {
         "gold": 5,
-        "silver": 5,
-        "bronze": 3
-      }
-    },
-    {
-      "countryId": "GER",
-      "sportName": "Canoeing",
-      "medals": {
-        "gold": 5,
-        "silver": 5,
+        "silver": 10,
         "bronze": 5
       }
     },
@@ -274,35 +184,8 @@
       "countryId": "NZL",
       "sportName": "Rowing",
       "medals": {
-        "gold": 5,
-        "silver": 5,
-        "bronze": 2
-      }
-    },
-    {
-      "countryId": "NZL",
-      "sportName": "Cycling",
-      "medals": {
-        "gold": 5,
-        "silver": 5,
-        "bronze": 2
-      }
-    },
-    {
-      "countryId": "NZL",
-      "sportName": "Athletics",
-      "medals": {
-        "gold": 5,
-        "silver": 5,
-        "bronze": 1
-      }
-    },
-    {
-      "countryId": "CAN",
-      "sportName": "Swimming",
-      "medals": {
-        "gold": 5,
-        "silver": 2,
+        "gold": 15,
+        "silver": 15,
         "bronze": 5
       }
     },
@@ -310,71 +193,26 @@
       "countryId": "CAN",
       "sportName": "Rowing",
       "medals": {
-        "gold": 3,
-        "silver": 5,
-        "bronze": 3
-      }
-    },
-    {
-      "countryId": "CAN",
-      "sportName": "Athletics",
-      "medals": {
-        "gold": 2,
-        "silver": 3,
-        "bronze": 2
+        "gold": 10,
+        "silver": 10,
+        "bronze": 10
       }
     },
     {
       "countryId": "UZB",
       "sportName": "Boxing",
       "medals": {
-        "gold": 4,
-        "silver": 5,
-        "bronze": 1
-      }
-    },
-    {
-      "countryId": "UZB",
-      "sportName": "Wrestling",
-      "medals": {
-        "gold": 5,
-        "silver": 4,
-        "bronze": 3
-      }
-    },
-    {
-      "countryId": "UZB",
-      "sportName": "Judo",
-      "medals": {
-        "gold": 1,
-        "silver": 1,
-        "bronze": 1
+        "gold": 10,
+        "silver": 10,
+        "bronze": 5
       }
     },
     {
       "countryId": "HUN",
       "sportName": "Swimming",
       "medals": {
-        "gold": 5,
-        "silver": 3,
-        "bronze": 0
-      }
-    },
-    {
-      "countryId": "HUN",
-      "sportName": "Fencing",
-      "medals": {
-        "gold": 2,
-        "silver": 2,
-        "bronze": 0
-      }
-    },
-    {
-      "countryId": "HUN",
-      "sportName": "Canoeing",
-      "medals": {
-        "gold": 3,
-        "silver": 5,
+        "gold": 10,
+        "silver": 10,
         "bronze": 0
       }
     },
@@ -382,134 +220,44 @@
       "countryId": "ESP",
       "sportName": "Sailing",
       "medals": {
-        "gold": 3,
-        "silver": 3,
-        "bronze": 4
-      }
-    },
-    {
-      "countryId": "ESP",
-      "sportName": "Cycling",
-      "medals": {
-        "gold": 2,
-        "silver": 1,
-        "bronze": 3
-      }
-    },
-    {
-      "countryId": "ESP",
-      "sportName": "Karate",
-      "medals": {
-        "gold": 5,
-        "silver": 1,
-        "bronze": 3
-      }
-    },
-    {
-      "countryId": "SWE",
-      "sportName": "Wrestling",
-      "medals": {
-        "gold": 5,
-        "silver": 2,
-        "bronze": 2
-      }
-    },
-    {
-      "countryId": "SWE",
-      "sportName": "Athletics",
-      "medals": {
-        "gold": 2,
-        "silver": 2,
-        "bronze": 1
+        "gold": 10,
+        "silver": 5,
+        "bronze": 10
       }
     },
     {
       "countryId": "SWE",
       "sportName": "Shooting",
       "medals": {
-        "gold": 3,
-        "silver": 1,
-        "bronze": 2
+        "gold": 10,
+        "silver": 5,
+        "bronze": 5
       }
     },
     {
       "countryId": "KEN",
       "sportName": "Athletics",
       "medals": {
-        "gold": 7,
-        "silver": 3,
+        "gold": 10,
+        "silver": 5,
         "bronze": 0
-      }
-    },
-    {
-      "countryId": "KEN",
-      "sportName": "Boxing",
-      "medals": {
-        "gold": 1,
-        "silver": 1,
-        "bronze": 0
-      }
-    },
-    {
-      "countryId": "KEN",
-      "sportName": "Weightlifting",
-      "medals": {
-        "gold": 2,
-        "silver": 1,
-        "bronze": 0
-      }
-    },
-    {
-      "countryId": "NOR",
-      "sportName": "Sailing",
-      "medals": {
-        "gold": 3,
-        "silver": 1,
-        "bronze": 1
-      }
-    },
-    {
-      "countryId": "NOR",
-      "sportName": "Athletics",
-      "medals": {
-        "gold": 1,
-        "silver": 3,
-        "bronze": 1
       }
     },
     {
       "countryId": "NOR",
       "sportName": "Cycling",
       "medals": {
-        "gold": 1,
-        "silver": 1,
-        "bronze": 3
+        "gold": 5,
+        "silver": 5,
+        "bronze": 5
       }
     },
     {
       "countryId": "IRL",
       "sportName": "Boxing",
       "medals": {
-        "gold": 2,
-        "silver": 2,
-        "bronze": 0
-      }
-    },
-    {
-      "countryId": "IRL",
-      "sportName": "Rowing",
-      "medals": {
-        "gold": 2,
-        "silver": 1,
-        "bronze": 0
-      }
-    },
-    {
-      "countryId": "IRL",
-      "sportName": "Athletics",
-      "medals": {
-        "gold": 1,
-        "silver": 2,
+        "gold": 5,
+        "silver": 5,
         "bronze": 0
       }
     },
@@ -517,27 +265,9 @@
       "countryId": "BRA",
       "sportName": "Volleyball",
       "medals": {
-        "gold": 3,
+        "gold": 5,
         "silver": 0,
-        "bronze": 2
-      }
-    },
-    {
-      "countryId": "BRA",
-      "sportName": "Judo",
-      "medals": {
-        "gold": 1,
-        "silver": 0,
-        "bronze": 1
-      }
-    },
-    {
-      "countryId": "BRA",
-      "sportName": "Athletics",
-      "medals": {
-        "gold": 1,
-        "silver": 0,
-        "bronze": 2
+        "bronze": 5
       }
     }
   ]
